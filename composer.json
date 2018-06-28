@@ -1,0 +1,15 @@
+{
+    "name": "imden/moc",
+    "authors": [
+        {
+            "name": "imden",
+            "email": "568089002@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "imden\\": "imden/"
+        }
+    }
+}

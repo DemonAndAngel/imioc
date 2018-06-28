@@ -1,0 +1,19 @@
+{
+    "name": "imden/ioc",
+    "authors": [
+        {
+            "name": "imden",
+            "email": "568089002@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "factory\\": "factory/",
+            "inter\\": "inter/",
+            "operation\\": "operation/",
+            "controller\\": "controller/",
+            "route\\": "route/"
+        }
+    }
+}
